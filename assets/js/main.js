@@ -105,7 +105,7 @@
 		});
 
 		var typed = new Typed(".typed", {
-        strings: ["Full Stack Developer", "Python Developer", "Technology Enthusiast"],
+        strings: ["Full Stack Developer", "Python Developer", "Tech Enthusiast"],
         typeSpeed: 50,
         smartBackspace: true,
         loop: true,
