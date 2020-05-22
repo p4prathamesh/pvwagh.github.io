@@ -1,3 +1,3 @@
 My portfolio
 
-pvwagh.github.io
+https://pvwagh.github.io/
